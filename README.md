@@ -47,5 +47,4 @@ Include visualizations such as:
 
 ## 🙋‍♂️ Author
 **Bismark Sarpong**  
-MBA & BBA | Aspiring Data Engineer  
-Boston, MA
+
